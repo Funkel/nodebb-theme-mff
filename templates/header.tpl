@@ -35,7 +35,7 @@
 		<nav class="navbar navbar-default navbar-fixed-top header" id="header-menu" component="navbar">
 			<div class="container-fluid">
 				<div class="shard">
-					<a href="<!-- IF brand:logo:url -->{brand:logo:url}<!-- ELSE -->{relative_path}/<!-- ENDIF brand:logo:url -->"><img src="/plugins/nodebb-theme-mff/images/logo.png"></a>
+					<a href="<!-- IF brand:logo:url -->{brand:logo:url}<!-- ELSE -->{relative_path}/<!-- ENDIF brand:logo:url -->"><img src="http://i.epvpimg.com/2X8ieab.png"></a>
 				</div>
 				<!-- IMPORT partials/menu.tpl -->
 			</div>
