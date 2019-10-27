@@ -1,15 +1,15 @@
 {
-    "name": "nodebb-theme-mff",
+    "name": "nodebb-theme-repeater",
     "version": "4.1.2",
     "nbbpm": {
         "compatibility": "^1.11.0"
     },
-    "description": "Minecraft Forge France V4.0 theme for NodeBB",
-    "homepage": "https://github.com/Funkel/nodebb-theme-mff.git#readme",
+    "description": "Repeater.xyz Theme",
+    "homepage": "https://github.com/Funkel/nodebb-theme-repeater.git#readme",
     "main": "theme.less",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Funkel/nodebb-theme-mff.git.git"
+        "url": "git+https://github.com/Funkel/nodebb-theme-repeater.git"
     },
     "keywords": [
         "nodebb",
@@ -35,7 +35,7 @@
     ],
     "license": "BSD-2-Clause",
     "bugs": {
-        "url": "https://github.com/Funkel/nodebb-theme-mff.git/issues"
+        "url": "https://github.com/Funkel/nodebb-theme-repeater.git/issues"
     },
     "dependencies": {
         "striptags": "^3.1.1"

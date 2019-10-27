@@ -1,8 +1,8 @@
 {
-    "id": "nodebb-theme-mff",
-    "name": "NodeBB Theme MFF",
-    "description": "Minecraft Forge France V4 theme for NodeBB.",
-    "url": "https://github.com/Funkel/nodebb-theme-mff.git",
+    "id": "nodebb-theme-repeater",
+    "name": "Repeater.xyz Theme",
+    "description": "Repeater.xyz Theme",
+    "url": "https://github.com/Funkel/nodebb-theme-repeater.git",
     "screenshot": "screenshot.png",
     "baseTheme": "nodebb-theme-persona"
 }
