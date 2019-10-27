@@ -1,6 +1,6 @@
 {
     "name": "nodebb-theme-mff",
-    "version": "4.1.1",
+    "version": "4.1.2",
     "nbbpm": {
         "compatibility": "^1.11.0"
     },
