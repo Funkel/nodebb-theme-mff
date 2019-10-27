@@ -2,7 +2,7 @@
     "id": "nodebb-theme-mff",
     "name": "NodeBB Theme MFF",
     "description": "Minecraft Forge France V4 theme for NodeBB.",
-    "url": "https://github.com/MinecraftForgeFrance/nodebb-theme-mff.git",
+    "url": "https://github.com/Funkel/nodebb-theme-mff.git",
     "screenshot": "screenshot.png",
     "baseTheme": "nodebb-theme-persona"
 }
