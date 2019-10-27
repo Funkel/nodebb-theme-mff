@@ -5,11 +5,11 @@
         "compatibility": "^1.11.0"
     },
     "description": "Minecraft Forge France V4.0 theme for NodeBB",
-    "homepage": "https://github.com/MinecraftForgeFrance/nodebb-theme-mff#readme",
+    "homepage": "https://github.com/Funkel/nodebb-theme-mff.git#readme",
     "main": "theme.less",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/MinecraftForgeFrance/nodebb-theme-mff.git"
+        "url": "git+https://github.com/Funkel/nodebb-theme-mff.git.git"
     },
     "keywords": [
         "nodebb",
@@ -35,7 +35,7 @@
     ],
     "license": "BSD-2-Clause",
     "bugs": {
-        "url": "https://github.com/MinecraftForgeFrance/nodebb-theme-mff/issues"
+        "url": "https://github.com/Funkel/nodebb-theme-mff.git/issues"
     },
     "dependencies": {
         "striptags": "^3.1.1"
