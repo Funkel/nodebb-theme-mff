@@ -3,4 +3,4 @@ Repeater.xyz Theme
 
 
 
-![](screenshot.pngd)
+![](screenshot.png)
