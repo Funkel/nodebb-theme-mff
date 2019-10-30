@@ -17,9 +17,9 @@
         <div class="col-xs-12 col-sm-4 col-md-5 col-lg-6">
           <div class="pull-right footer-social-networks no-pull-xs">
               <!--Facebook-->
-              <a href="#" target="_blank" class="icons-sm"><i class="fa fa-facebook"> </i></a>
+              <a href="https://www.facebook.com/javahubde" target="_blank" class="icons-sm"><i class="fa fa-facebook"> </i></a>
               <!--Twitter-->
-              <a href="#" target="_blank" class="icons-sm"><i class="fa fa-twitter"> </i></a>
+              <a href="https://twitter.com/Javahubde" target="_blank" class="icons-sm"><i class="fa fa-twitter"> </i></a>
               <!--Youtube-->
               <a href="https://www.youtube.com/user/FunkelYT" target="_blank" class="icons-sm"><i class="fa fa-youtube"> </i></a>
               <!--Discord-->
