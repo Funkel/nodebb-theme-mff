@@ -8,7 +8,7 @@
       <div class="row footer-row first-footer-row">
         <div class="col-xs-12 col-sm-8 col-md-7 col-lg-6">
           <div class="shard footer-shard">
-            <a href="/"><img src="/plugins/nodebb-theme-mff/images/credits.png" alt="Design by Repeater"></a>
+            <a href="/"><img src="https://i.imgur.com/rE2wLFW.png" alt="Design by Repeater"></a>
           </div>
           <div class="footer-link">
             <a href="https://repeater.xyz/topic/4/impressum">Impressum</a> / <a href="https://repeater.xyz/topic/3/datenschutzerkl%C3%A4rung">Datenschutzerklärung</a> / <a href="https://repeater.xyz/topic/2/nutzungbedingungen" target="_blank">Nutzungsbestimmungen</a>
