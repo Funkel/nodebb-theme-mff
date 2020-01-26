@@ -32,7 +32,7 @@
       </div>
       <div class="row footer-copyright footer-row">
         <div class="col-xs-12">
-          <p class="pull-left footer-link no-pull-xs">Repeater.xyz © 2019</p>
+          <p class="pull-left footer-link no-pull-xs">Interruption.eu © 2019</p>
           <p class="pull-right no-pull-xs">Powered by <a href="https://nodebb.org/" target="_blank">NodeBB</a></p>
         </div>
       </div>
