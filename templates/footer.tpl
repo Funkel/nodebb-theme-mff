@@ -11,7 +11,7 @@
             <a href="/"><img src="https://i.imgur.com/rE2wLFW.png" alt="Design by Repeater"></a>
           </div>
           <div class="footer-link">
-            <a href="https://repeater.xyz/topic/4/impressum">Impressum</a> / <a href="https://repeater.xyz/topic/3/datenschutzerkl%C3%A4rung">Datenschutzerklärung</a> / <a href="https://repeater.xyz/topic/2/nutzungbedingungen" target="_blank">Nutzungsbestimmungen</a>
+            <a href="https://interruption.eu/topic/2/impressum">Impressum</a> / <a href="https://interruption.eu/topic/3/datenschutzerklärung">Datenschutzerklärung</a> / <a href="https://repeater.xyz/topic/2/nutzungbedingungen" target="_blank">Nutzungsbestimmungen</a>
           </div>
         </div>
         <div class="col-xs-12 col-sm-4 col-md-5 col-lg-6">
