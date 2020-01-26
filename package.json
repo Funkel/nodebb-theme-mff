@@ -1,6 +1,6 @@
 {
     "name": "nodebb-theme-repeater",
-    "version": "4.1.2",
+    "version": "4.1.3",
     "nbbpm": {
         "compatibility": "^1.11.0"
     },
